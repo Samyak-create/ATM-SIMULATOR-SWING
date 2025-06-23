@@ -80,7 +80,7 @@ git clone https://github.com/your-username/ATM-Simulator-Swing.git
 ##  Screenshots
 
 ###  Login Page
-![Login UI](assets/Log in.png)
+![Login UI](assets/Log.png)
 
 ###  ATM Dashboard
 ![Dashboard UI](assets/Dashboard.png)
