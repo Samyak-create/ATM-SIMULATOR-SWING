@@ -48,7 +48,7 @@ CREATE TABLE transactions (
   timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-INSERT INTO users VALUES ('1234567890', '1234', 'Shreya', 5000);
+INSERT INTO users VALUES ('1234567890', '1234', 'Name', 5000);
 ```
 
 ---
