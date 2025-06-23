@@ -77,6 +77,13 @@ git clone https://github.com/your-username/ATM-Simulator-Swing.git
 * Click **Run 'LoginFrame.main()'**
 
 ---
+##  Screenshots
+
+###  Login Page
+![Login UI](assets/Log in.png)
+
+###  ATM Dashboard
+![Dashboard UI](assets/Dashboard.png)
 
 ##  Features
 
